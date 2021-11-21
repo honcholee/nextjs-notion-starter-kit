@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Honcho',
   domain: 'https://www.notion.so/lihongcheng/Honcho-43a18b028b354fc69c5b378049580e09’,
-  author: 'honcho',
+  author: 'Honcho',
 
   // open graph metadata (optional)
   description: 'Example site description',
