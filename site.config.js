@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'honcho',
-  domain: 'https://www.notion.so/lihongcheng/honcho-43a18b028b354fc69c5b378049580e09’,
+  domain: 'www.notion.so//lihongcheng//honcho-43a18b028b354fc69c5b378049580e09’,
   author: 'Honcho',
 
   // open graph metadata (optional)
