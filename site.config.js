@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '92db63f7f11a4c99898be7b9f0f6ea20',
+  rootNotionPageId: '0003a8c06d3f45d08cf06ed45d1d14fd',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Study',
-  domain: 'https://www.notion.so/Getting-Started-on-Mobile-92db63f7f11a4c99898be7b9f0f6ea20',
+  domain: 'https://successful-ship-3e5.notion.site/Welcome-to-Lihongcheng-s-Blog-059c58f104f94a02b6d47c6c293b6c0e94a02b6d47c6c293b6c0e,
   author: 'Li Honcheng',
 
   // open graph metadata (optional)
