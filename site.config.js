@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Study',
-  domain: 'https://successful-ship-3e5.notion.site/Welcome-to-Lihongcheng-s-Blog-059c58f104f94a02b6d47c6c293b6c0e94a02b6d47c6c293b6c0e,
+  domain: 'https://successful-ship-3e5.notion.site/Welcome-to-Lihongcheng-s-Blog-059c58f104f94a02b6d47c6c293b6c0e94a02b6d47c6c293b6c0e’,
   author: 'Li Honcheng',
 
   // open graph metadata (optional)
