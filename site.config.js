@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '43a18b028b354fc69c5b378049580e09',
+  rootNotionPageId: 'honcho-43a18b028b354fc69c5b378049580e09',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Honcho',
-  domain: 'https://www.notion.so/lihongcheng/Honcho-43a18b028b354fc69c5b378049580e09’,
+  name: 'honcho',
+  domain: 'https://www.notion.so/lihongcheng/honcho-43a18b028b354fc69c5b378049580e09’,
   author: 'Honcho',
 
   // open graph metadata (optional)
